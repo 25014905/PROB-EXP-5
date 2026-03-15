@@ -58,5 +58,7 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
-## Result : 
+![image](https://github.com/25014905/PROB-EXP-5/blob/main/WhatsApp%20Image%202026-03-15%20at%206.10.24%20PM.jpeg?raw=true)
 
+## Result : 
+Hence the given program is completed.
